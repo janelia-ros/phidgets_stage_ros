@@ -1,6 +1,6 @@
 #+TITLE: Phidgets Stage
 #+AUTHOR: Peter Polidoro
-#+EMAIL: peterpolidoro@gmail.com
+#+EMAIL: peter@polidoro.io
 
 * Repository Information
   - Name :: Phidgets Stage
@@ -8,6 +8,6 @@
   - License :: BSD
   - URL :: https://github.com/janelia-ros/phidgets_stage_ros
   - Author :: Peter Polidoro
-  - Email :: peterpolidoro@gmail.com
+  - Email :: peter@polidoro.io
 
 ** Description

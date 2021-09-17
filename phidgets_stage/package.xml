@@ -4,7 +4,7 @@
   <name>phidgets_stage</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="peterpolidoro@gmail.com">Peter Polidoro</maintainer>
+  <maintainer email="peter@polidoro.io">Peter Polidoro</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
